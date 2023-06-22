@@ -33,3 +33,9 @@ body {
     height: 480px;
     background-color: rgb(161, 169, 165);
 }
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
